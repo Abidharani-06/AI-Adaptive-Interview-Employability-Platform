@@ -1,0 +1,41 @@
+JOB ROLE: AI/ML Software Engineer
+
+We are looking for a candidate with strong programming and software development skills.
+
+Required Technical Skills:
+Python
+Java
+C++
+JavaScript
+SQL
+MongoDB
+Git
+GitHub
+Machine Learning
+Deep Learning
+Pandas
+NumPy
+Flask
+Docker
+AWS
+Data Structures
+Algorithms
+DBMS
+
+Preferred Skills:
+Power BI
+React
+Node.js
+Computer Vision
+Natural Language Processing
+Cloud Computing
+
+Responsibilities:
+- Develop machine learning and AI applications.
+- Build and test Python-based software solutions.
+- Work with databases and SQL.
+- Develop REST APIs using Flask.
+- Use Git and GitHub for version control.
+- Work with Docker and cloud platforms.
+- Apply data structures and algorithms to solve problems.
+- Analyze data using Python, Pandas and NumPy.
